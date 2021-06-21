@@ -32,3 +32,9 @@ requirements.txt contains all the python packages that needs to be installed
 ```
 pip install -r requirements.txt
 ```
+
+# Files
+Predictive_Modeling.ipynb: Ipython file where the data analysis performed
+haberman.csv: data file
+requirements.txt: python packages required to install
+README.md: Readme file with introduction and details
