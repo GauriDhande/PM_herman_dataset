@@ -38,3 +38,6 @@ Predictive_Modeling.ipynb: Ipython file where the data analysis performed \
 haberman.csv: data file \
 requirements.txt: python packages required to install \
 README.md: Readme file with introduction and details 
+
+# Medium Blog Post
+https://medium.com/@dhandegauri/its-all-about-data-science-developing-predictive-modeling-for-heberman-s-dataset-57d0ebbaabc9
